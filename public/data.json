@@ -127,11 +127,6 @@
       "category": "Frameworks"
     },
     {
-      "name": "ASP.NET MVC",
-      "image": "https://img.icons8.com/material-outlined/96/asp.png",
-      "category": "Frameworks"
-    },
-    {
       "name": "MongoDB",
       "image": "https://img.icons8.com/color/96/mongo-db.png",
       "category": "Database"
@@ -431,7 +426,7 @@
       "desc": [
         "I transitioned from a Software Test Engineer to a Software Engineer, where I was tasked with developing and maintaining web system functionalities.",
         "Handled the development and ongoing maintenance of web system functions to enhance performance and user satisfaction.",
-        "Tech Stack: ASP.NET MVC, Microsoft SQL Server, Vue.js, Microsoft Azure, C#, TypeScript"
+        "Tech Stack: Vue, C#, TypeScript, Microsoft SQL Server, Microsoft Azure"
       ]
     },
     {
